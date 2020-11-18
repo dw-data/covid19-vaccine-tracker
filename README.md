@@ -1,6 +1,6 @@
 # COVID-19 vaccine tracker
 
-Idea, research, data analysis and visualization, writing: [Gianna-Carina Gruen](https://twitter.com/giannagruen)
+Idea, research, data analysis and visualization, writing: [Gianna-Carina Grün](https://twitter.com/giannagruen)
 
 Editing: Fabian Schmidt, [Zulfikar Abbany](https://twitter.com/zulfikarabbany)
 
@@ -22,4 +22,4 @@ In the "Clinical trials database" compiled by the [**London School of Hygiene an
 
 ## Comparisons
 
-Other media companies too have implemented vaccine development trackers ([NYTimes](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html), [Guardian](https://www.theguardian.com/world/ng-interactive/2020/nov/10/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready),[Milken Institute](https://www.covid-19vaccinetracker.org/) , [Zeit Online](https://www.zeit.de/wissen/gesundheit/2020-08/impfstoffentwicklung-corona-impfstoff-klinische-phasen-forschung)). You will see that numbers differ, based on the sources used and whether trials or vaccine candidates are counted. Furthermore, we distinguish between "in approval" and "approved", and chose to not show the process, but only signify a vaccine as "approved" once the major authorities have done so.
+Other media companies too have implemented vaccine development trackers ([NYTimes](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html), [Guardian](https://www.theguardian.com/world/ng-interactive/2020/nov/10/covid-vaccine-tracker-when-will-a-coronavirus-vaccine-be-ready), [Milken Institute](https://www.covid-19vaccinetracker.org/), [Zeit Online](https://www.zeit.de/wissen/gesundheit/2020-08/impfstoffentwicklung-corona-impfstoff-klinische-phasen-forschung)). You will see that numbers differ, based on the sources used and whether trials or vaccine candidates are counted. Furthermore, we distinguish between "in approval" and "approved", and chose to not show the process, but only signify a vaccine as "approved" once the major authorities have done so.
