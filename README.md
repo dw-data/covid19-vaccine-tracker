@@ -62,12 +62,12 @@ In combining both datasets, we established the one for analysis that holds the f
 | column  |  description |
 |----------------|------------------------|
 | COVID-19 Vaccine developer/manufacturer  | Name of developer/manufacturer or team of developers/manufacturers, separated by  `/` |
-| Vaccine platform | Type of vaccine |
+| Vaccine platform | Type of vaccine\* |
 | Preclinical| `preclinical` if True, else no value  |
 | Phase 1  | if there's a trial in this phase, cell holds one or multiple trial numbers |
-| Phase 1/2 | if there's a trial in this phase, contains one or multiple trial numbers |
-| Phase 2 | if there's a trial in this phase, contains one or multiple trial numbers |
-| Phase 3  | if there's a trial in this phase, contains one or multiple trial numbers |
+| Phase 1/2 | if there's a trial in this phase, cell holds one or multiple trial numbers |
+| Phase 2 | if there's a trial in this phase, cell holds one or multiple trial numbers |
+| Phase 3  | if there's a trial in this phase, cell holds one or multiple trial numbers |
 
-For entries in the column `Vaccine platforms` we noticed different spellings of the same type, for example `Protein subunit, Protein Subunit or Protein Sub-unit` or `Non-replicating viral vector or non replicating viral vector`, which were unified to be spelled the same way before exporting the dataset for analysis.
+\* For entries in the column `Vaccine platforms` we noticed different spellings of the same type, for example `Protein subunit, Protein Subunit or Protein Sub-unit` or `Non-replicating viral vector or non replicating viral vector`, which were unified to be spelled the same way before exporting the dataset for analysis.
 
