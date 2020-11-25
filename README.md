@@ -31,20 +31,28 @@ You will see that numbers differ, based on
 * whether **trials or vaccine candidates** are counted and
 * based on the **distinction between "in approval" and "approved"**; we chose to not show the process, but only signify a vaccine as "approved" once the major authorities have done so
 
-<!-- 
+ 
 ## Definitions
+
+### Assignment of clinical phases
+
+There are five phases of clinical trials: Phase I, Phase I/II, Phase II, Phase II/III, Phase III.
+
+If a vaccine is in a dual phase like `Phase I/II` or in `Phase II/III` it is tested there simultaneously, but for analysis assigned to the higher phase: a vaccine candidate in `Phase I/II`is assigned to `Phase II`, whereas a vaccine candidate tested in `Phase II/III` it is assigned to `Phase III`.
+
+Beyond these dual phases, vaccine candidates can be in different clinical trial phases at the same time (e.g. `Phase I` and `Phase III`) with different trial parameters (age, pre-existing conditions). If that is the case for a candidate, it is shown in both phases.
 
 ### Approval
 
+Each country has their own national regulatory authorities (NRA) responsible for approving for new drugs in their country. There are several NRAs that are particularly relevant, among them the US-American [FDA](https://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics) and the European [EMA](https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/treatments-vaccines-covid-19). We signify a COVID-19 vaccine as approved if one of these bodies approves a vaccine. 
+
+We will also classify a vaccine as approved if one of these two bodies greenlights a new vaccine on their ["emergency use listing"](https://www.who.int/news-room/q-a-detail/coronavirus-disease-use-of-emergency-use-listing-procedure-forvaccines-against-covid-19), or if the [WHO](https://www.who.int/teams/regulation-prequalification/eul/covid-19) does so. 
+
 ### Time ranges
 
-Primary completion date
-The date on which the last participant in a clinical study was examined or received an intervention to collect final data for the primary outcome measure. Whether the clinical study ended according to the protocol or was terminated does not affect this date. For clinical studies with more than one primary outcome measure with different completion dates, this term refers to the date on which data collection is completed for all the primary outcome measures. The "estimated" primary completion date is the date that the researchers think will be the primary completion date for the study.
+For the duration of clinical trial phases, we rely on the LSHTM data publishing the estimates provided by research groups. They proved a `start date` for their clinical trials and a `primary completion date`. 
 
-
-### Clinical phases
-
-  -->
+The `primary completion date` is [defined](https://prsinfo.clinicaltrials.gov/definitions.html#PrimaryCompletionDate) as *"The date on which the last participant in a clinical study was examined or received an intervention to collect final data for the primary outcome measure. Whether the clinical study ended according to the protocol or was terminated does not affect this date. For clinical studies with more than one primary outcome measure with different completion dates, this term refers to the date on which data collection is completed for all the primary outcome measures. The "estimated" primary completion date is the date that the researchers think will be the primary completion date for the study."*
 
 
 ## Data processing
