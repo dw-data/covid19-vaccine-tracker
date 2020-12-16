@@ -48,6 +48,13 @@ Each country has their own national regulatory authorities (NRA) responsible for
 
 We will also classify a vaccine as approved if one of these two bodies greenlights a new vaccine on their ["emergency use listing"](https://www.who.int/news-room/q-a-detail/coronavirus-disease-use-of-emergency-use-listing-procedure-forvaccines-against-covid-19), or if the [WHO](https://www.who.int/teams/regulation-prequalification/eul/covid-19) does so. 
 
+
+
+| Vaccine Candidate  | Approved by  |  on |  notes |
+|------------------|------|-------------|--------------------|
+|  BioNTech-Pfizer |  FDA |  2020-12-12 | for emergency use  |
+
+
 ### Time ranges
 
 For the duration of clinical trial phases, we rely on the LSHTM data publishing the estimates provided by research groups. They proved a `start date` for their clinical trials and a `primary completion date`. 
