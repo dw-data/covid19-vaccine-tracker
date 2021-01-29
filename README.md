@@ -51,7 +51,10 @@ We will also classify a vaccine as approved if one of these two bodies greenligh
 | Vaccine Candidate  | Approved by  |  on |  notes |
 |------------------|------|-------------|--------------------|
 |  BioNTech-Pfizer |  FDA |  2020-12-12 | for emergency use  |
+|  BioNTech-Pfizer |  EMA |  subsequently | for emergency use  |
 |  Moderna |  FDA |  2020-12-19 | for emergency use  |
+|  Moderna |  EMA |  subsequently | for emergency use  |
+|  Oxford/AstraZeneca |  EMA |  2021-01-29 | for emergency use  |
 
 
 ### Time ranges
