@@ -55,6 +55,7 @@ We will also classify a vaccine as approved if one of these two bodies greenligh
 |  Moderna |  FDA |  2020-12-19 | for emergency use  |
 |  Moderna |  EMA |  subsequently | for emergency use  |
 |  Oxford/AstraZeneca |  EMA |  2021-01-29 | for emergency use  |
+|  Janssen |  EMA |  2021-03-11 | for emergency use  |
 |  Sinopharm |  WHO |  2021-06-03 | for emergency use  |
 |  Sinovac |  WHO |  2021-06-03 | for emergency use  |
 
